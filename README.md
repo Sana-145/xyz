@@ -1,4 +1,4 @@
 # XYZ
 This is just a xyz file.
 <br>
-Author - Yumi
+Author - Yumi (Imaginary)
